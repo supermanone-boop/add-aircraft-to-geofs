@@ -1,6 +1,6 @@
 {
   "name": "My Aircraft",
-  "model": "",
+  "model": "https://raw.githubusercontent.com/supermanone-boop/add-aircraft-to-geofs/main/textured.glb",
 
   "mass": 10000,
   "wingArea": 25,
