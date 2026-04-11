@@ -1,0 +1,24 @@
+{
+  "name": "My Aircraft",
+  "model": "",
+
+  "mass": 10000,
+  "wingArea": 25,
+  "wingSpan": 9,
+
+  "thrust": 20000,
+  "dragCoefficient": 0.02,
+
+  "engines": [
+    {
+      "position": [0, 0, 0],
+      "thrust": 1
+    }
+  ],
+
+  "control": {
+    "elevator": 1,
+    "aileron": 1,
+    "rudder": 1
+  }
+}
