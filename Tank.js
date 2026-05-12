@@ -7,7 +7,7 @@
     console.log("[B52 GLB Merge] init");
 
     const GLB_URL =
-        "https://raw.githubusercontent.com/supermanone-boop/models/main/boeing_b-52_stratofortress.glb";
+        "https://raw.githubusercontent.com/supermanone-boop/models/main/tank_t-80u.glb";
 
     // -------------------------
     // ① 初期非表示
