@@ -41,4 +41,3 @@ ac.addParts([
 console.log("[B52 GLB Merge] added");
 
 })();
-SR72
