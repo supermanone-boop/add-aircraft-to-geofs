@@ -7,7 +7,7 @@
     console.log("[B52 GLB Merge] init");
 
     const GLB_URL =
-        "https://raw.githubusercontent.com/supermanone-boop/models/main/b-1_lancer_final_version.glb";
+        "https://raw.githubusercontent.com/supermanone-boop/models/main/lockheed_martin_c130jsuper_hercules_reupload.glb";
 
     // -------------------------
     // ① 初期非表示
